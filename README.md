@@ -8,7 +8,7 @@
 
 <p><i>I am a Mechanical engineer who learned to code in Python. My first touch with programming was at College during my Bachelor studies. My Bachelor thesis was: "Automation of the Calculation and Design of the V-Belt Drives". Besides calculations, I made an API connection with SolidWorks for generating a 3D model calculated pulley. It will be available on GitHub very soon. Everything was done in Visual Basic 6. Two years ago, I started learning Python, web scraping, then databases, GUI, etc. These days, I am focused on sentiment analysis of the text and audio recordings.</i></p>
 
-- 💬 Ask me anything about **<code>Python</code>, and <code>Web scraping</code> or even something from <code>Mechanical engineering</code> or <code>CAD</code>**
+- 💬 Ask me anything about **<code>Python</code>**, **<code>Web scraping</code>** or even something from **<code>Mechanical engineering</code>** or **<code>CAD</code>**
 
 - 📫 Reach me via **<code><a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/">LinkedIn</a></code>** or **<code><a href="https://twitter.com/nikola_lazich">Twitter</a></code>**
 
