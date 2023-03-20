@@ -25,7 +25,6 @@
 </a>
 </p>
 
-</br>
 
 <h2 align="center">💻 Tech stack:</h2>
 <p align="center">
