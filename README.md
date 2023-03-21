@@ -10,17 +10,17 @@
 
 - 💬 Ask me anything about **<code>Python</code>**, **<code>Web scraping</code>** or even something from **<code>Mechanical engineering</code>** or **<code>CAD</code>**
 
-- 📫 Reach me via **<code><a href="https://www.linkedin.com/in/aniket-kumar-161b9b189/">LinkedIn</a></code>** or **<code><a href="https://twitter.com/nikola_lazich">Twitter</a></code>**
+- 📫 Reach me via **<code><a href="https://www.linkedin.com/in/nikolalazich/">LinkedIn</a></code>** or **<code><a href="https://twitter.com/nikola_lazich">Twitter</a></code>**
 
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/nikola-lazic?tab=repositories)</code>**
 
 <hr>
 <h2 align="center">🌐 Let's connect:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikolalazich/">
+<a href="https://www.linkedin.com/in/nikolalazich/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/https://twitter.com/nikola_lazich">
+<a href="https://twitter.com/nikola_lazich">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
 </a>
 </p>
