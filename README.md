@@ -6,7 +6,7 @@
 
 <img src="img/python-image.png" height=50% width=50% align="right">
 
-<p><i>I am a Mechanical engineer who learned to code in Python. My first touch with programming was at College during my Bachelor studies. My Bachelor thesis was: "Automation of the Calculation and Design of the V-Belt Drives". Besides calculations, I made an API connection with SolidWorks for generating a 3D model of the calculated pulley. It will be available on GitHub very soon. Everything was done in Visual Basic 6. Two years ago, I started learning Python, web scraping, then databases, GUI, etc. These days, I am focused on sentiment analysis of the text and audio recordings.</i></p>
+<p><i>I am a Mechanical engineer who learned to code in Python. My first touch with programming was at College during my Bachelor studies. My Bachelor thesis was: "Automation of the Calculation and Design of the V-Belt Drives". Besides calculations, I made an API connection with SolidWorks for generating a 3D model of the calculated pulley. It is available <a href="https://github.com/nikola-lazic/Visual-Basic-6-V-Belt-Drive-Calculator-and-3D-model-Generator">here</a>. Everything was done in Visual Basic 6 and Wolfram Mathematica. Two years ago, I started learning Python, web scraping, then databases, GUI, etc. These days, I am focused on sentiment analysis of the text and audio recordings.</i></p>
 
 - 💬 Ask me anything about **<code>Python</code>**, **<code>Web scraping</code>** or even something from **<code>Mechanical engineering</code>** or **<code>CAD</code>**
 
